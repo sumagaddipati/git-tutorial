@@ -1,2 +1,2 @@
 console.log('chnage.js');
-console.log('version4');
+console.log('version5');
